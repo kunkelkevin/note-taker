@@ -1,32 +1,7 @@
 [
   {
-    "title": "Test3 Title",
-    "text": "Test4 text",
-    "id": "1"
-  },
-  {
-    "title": "Test3 Title",
-    "text": "Test4 text",
-    "id": "4"
-  },
-  {
-    "title": "Test3 Title",
-    "text": "Test4 text",
-    "id": "5"
-  },
-  {
-    "title": "Test3 Title",
-    "text": "Test4 text",
-    "id": "6"
-  },
-  {
-    "title": "Test3 Title",
-    "text": "Test5 text",
-    "id": "7"
-  },
-  {
-    "title": "Test3 Title",
-    "text": "Test0 text",
-    "id": "8"
+    "title": "First Note",
+    "text": "Here is my first note to take.",
+    "id": "0"
   }
 ]
